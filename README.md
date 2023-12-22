@@ -70,7 +70,7 @@ Ensure you have the following tools installed:
 
 ## Usage
 
-Once the app is running, open it in your web browser and follow the on-screen instructions for registration and login. Explore the various features and functionalities of the College Chat App.
+Once the app is running, open it in your web browser and follow the on-screen instructions for registration and login. Explore the various features and functionalities of the chat app.
 
 ## Authentication
 
