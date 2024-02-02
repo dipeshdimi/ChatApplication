@@ -35,9 +35,7 @@ This is a real-time chat application that enables users to register, authenticat
 - Conversation deletion
 - Logout functionality
 
-<img src="https://github.com/dipeshdimi/ChatApplication/assets/82582216/97f5173c-0c87-4060-aa06-4a8401fd7b58" width=33% height=33%> 
-<img src="https://github.com/dipeshdimi/ChatApplication/assets/82582216/08052332-973a-4197-a64c-4f4aa34546b0" width=33% height=33%> 
-<img src="https://github.com/dipeshdimi/ChatApplication/assets/82582216/6134ad31-79f8-45b0-b1ab-6a45c1dd4caf" width=33% height=33%> 
+<img src="https://github.com/dipeshdimi/ChatApplication/assets/82582216/97f5173c-0c87-4060-aa06-4a8401fd7b58" width=32%> <img src="https://github.com/dipeshdimi/ChatApplication/assets/82582216/08052332-973a-4197-a64c-4f4aa34546b0" width=33%> <img src="https://github.com/dipeshdimi/ChatApplication/assets/82582216/6134ad31-79f8-45b0-b1ab-6a45c1dd4caf" width=32%> 
 
 
 ## Getting Started
