@@ -1,6 +1,10 @@
 # Chat Application
 
-A chat application built using React, Firebase (Firestore database), SCSS, and EmailJS (for OTP verification).
+A chat application built using React, Firebase (Firestore database), CSS, and EmailJS (for OTP verification).
+
+<img src="https://github.com/dipeshdimi/ChatApplication/assets/82582216/cf09b2eb-d69a-4843-9b54-1cd8ea2447f0)" width=49%> <img src="https://github.com/dipeshdimi/ChatApplication/assets/82582216/359c0c38-011e-4fb0-af73-2ccfc4426de7" width=49%>
+<img src="https://github.com/dipeshdimi/ChatApplication/assets/82582216/5ceb661c-0a89-4d3a-a592-e6af477723f8"> 
+
 
 ## Table of Contents
 
@@ -30,6 +34,11 @@ This is a real-time chat application that enables users to register, authenticat
 - Message types: text, picture, video, and voicemail
 - Conversation deletion
 - Logout functionality
+
+<img src="https://github.com/dipeshdimi/ChatApplication/assets/82582216/97f5173c-0c87-4060-aa06-4a8401fd7b58" width=33% height=33%> 
+<img src="https://github.com/dipeshdimi/ChatApplication/assets/82582216/08052332-973a-4197-a64c-4f4aa34546b0" width=33% height=33%> 
+<img src="https://github.com/dipeshdimi/ChatApplication/assets/82582216/6134ad31-79f8-45b0-b1ab-6a45c1dd4caf" width=33% height=33%> 
+
 
 ## Getting Started
 
